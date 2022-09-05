@@ -6,7 +6,7 @@ namespace ResultsTask1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            XFile.DeliteFile(@"E:\Task1\");
         }
     }
 }
